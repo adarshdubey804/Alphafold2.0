@@ -1,0 +1,5 @@
+{
+  "name": "alphafold-vs-pipeline",
+  "description": "AlphaFold-guided virtual screening dashboard",
+  "requestFramePermissions": []
+}
